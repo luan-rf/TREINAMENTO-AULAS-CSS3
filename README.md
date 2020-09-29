@@ -1,0 +1,2 @@
+# TREINAMENTO-AULAS-CSS3
+Neste código, eu recrio todos os conteúdos que foram me passados em uma aula do meu curso. No caso, eram algumas atividades que foram apresentadas do CSS3. A aula foi assistida e, algumas horas depois, eu coloquei uma música relaxante, e fui colocar tudo em códigos o que eu tinha visto nas aulas. É algo bem simples, envolve HTML5 e alguns artificios de CSS3 (no caso, assunto da aula).
