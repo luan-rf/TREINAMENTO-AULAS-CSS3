@@ -1,0 +1,19 @@
+body{
+	background-color: black;
+}
+.titulos{
+	color:red;
+	background-color: black;
+}
+.texto{
+	color: white;
+	background-color: black;
+}
+#formulario{
+	border-color: red;
+	border-width: 1px;
+	border-style: solid;
+	font: normal 15px "Times New Roman", serif;
+	color: red;
+	background-color: black;
+}
